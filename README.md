@@ -21,7 +21,7 @@ The challenge involves analyzing a cryptic message that points to a specific con
 
 Detailed step-by-step approach to solving the challenge, including background research, analysis, and final flag determination.
 
-**Flag:** `BitCTF{your_flag_here}`
+**Flag:** `BitCTF{month_day_year}`
 
 ---
 
@@ -35,7 +35,7 @@ This challenge asks you to solve a puzzle involving a set of clues that point to
 
 Breakdown of the clues, historical context, and how to interpret the given information to arrive at the solution.
 
-**Flag:** `BitCTF{correct_flag_here}`
+**Flag:** `BitCTF{bill_total}`
 
 ---
 
@@ -49,7 +49,7 @@ The challenge revolves around the D.B. Cooper hijacking and asks you to identify
 
 Step-by-step breakdown of identifying the correct suspect, using historical context and understanding the popular suspects in the D.B. Cooper case.
 
-**Flag:** `BitCTF{Richard_Floyd_McCoy}`
+**Flag:** `BitCTF{Name1_Name2_Name3}`
 
 ---
 
@@ -63,7 +63,7 @@ In this challenge, we need to determine the age of the Boeing 727-100 when D.B. 
 
 Detailed calculation of the aircraft’s age by determining its first flight date and subtracting it from the date of the hijacking.
 
-**Flag:** `BitCTF{6}`
+**Flag:** `BitCTF{Count}`
 
 ---
 
